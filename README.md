@@ -5,6 +5,7 @@
 > Tomcat Server 8.5 (or 9, I don't suggest using 10 or higher)
 > For IDE I'm using Netbeans 12.4 (8.2 plugins are no longer supported)
 ## Installation
-In `PlantShop_DB`
+In `PlantShop_DB` you will need to run `Database.sql` to install Database
+`Data.sql` file is my data, you can make your own or use mine.
 
  
